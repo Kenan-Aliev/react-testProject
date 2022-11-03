@@ -1,0 +1,17 @@
+.nftPage {
+  width: 90%;
+  margin: 100px auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+.nftPage-left {
+  width: 40%;
+}
+
+.nftPage-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  width: 40%;
+}
